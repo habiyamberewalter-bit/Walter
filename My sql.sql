@@ -1,1 +1,0 @@
-SELECT * FROM unilak_mis.student;
